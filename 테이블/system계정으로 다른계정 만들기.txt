@@ -1,2 +1,0 @@
-create user project3 identified by project3;
-grant connect, resource, create view to project3;
